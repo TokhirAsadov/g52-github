@@ -1,1 +1,2 @@
 nimadir code yozildi 
+"birinchi filega uzgartirish kiritaman"
